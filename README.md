@@ -8,6 +8,16 @@ A technology strategy thesis on the intersection of platform engineering, machin
 
 [THESIS.md](./THESIS.md)
 
+## The evidence
+
+[EVIDENCE.md](./EVIDENCE.md) &mdash; The arithmetic of shared infrastructure.
+
+A tool built to assess regulatory impact, not to prove this thesis, estimated
+213 engineer-weeks pricing controls per system and 122 pricing shared
+infrastructure once. Same obligations, same systems. That 43 percent gap is
+the thesis expressed as a number &mdash; and it surfaced because the first
+version of the tool made exactly the mistake this thesis warns against.
+
 ## Core argument
 
 AI fails in regulated industries at the governance and data layer, not the model layer. That layer is platform engineering. The organizations that win the AI era in regulated financial services and manufacturing will not be the ones that deployed AI fastest. They will be the ones that built the governance, data, and platform infrastructure to make AI deployable at all.
